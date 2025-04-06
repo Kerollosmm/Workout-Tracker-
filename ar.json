@@ -1,0 +1,76 @@
+{
+    "app_name": "متتبع التمارين",
+    "dashboard": "لوحة المعلومات",
+    "workout": "تمرين",
+    "analytics": "التحليلات",
+    "history": "التاريخ",
+    "settings": "الإعدادات",
+    
+    "today_progress": "تقدم اليوم",
+    "this_week": "هذا الأسبوع",
+    "recent_workouts": "التمارين الأخيرة",
+    "no_workouts_yet": "لا توجد تمارين حتى الآن. ابدأ بتتبع تقدمك!",
+    
+    "log_workout": "تسجيل التمرين",
+    "add_exercise": "إضافة تمرين",
+    "exercise_name": "اسم التمرين",
+    "muscle_group": "مجموعة العضلات",
+    "weight": "الوزن",
+    "reps": "التكرارات",
+    "sets": "المجموعات",
+    "notes": "ملاحظات",
+    "save_workout": "حفظ التمرين",
+    "workout_saved": "تم حفظ التمرين بنجاح",
+    
+    "please_add_exercise": "الرجاء إضافة تمرين واحد على الأقل",
+    "please_complete_sets": "الرجاء إكمال جميع معلومات المجموعة",
+    "tap_add_exercise": "انقر على \"إضافة تمرين\" للبدء",
+    
+    "performance": "الأداء",
+    "muscle_groups": "مجموعات العضلات",
+    "select_exercise": "اختر التمرين",
+    "no_data_available": "لا توجد بيانات متاحة لهذا التمرين",
+    
+    "workout_history": "تاريخ التمارين",
+    "no_workout_history": "لا يوجد تاريخ للتمارين حتى الآن",
+    "exercises": "تمارين",
+    
+    "add_custom_exercise": "إضافة تمرين مخصص",
+    "add_to_favorites": "أضف إلى المفضلة",
+    
+    "language": "اللغة",
+    "weight_unit": "وحدة الوزن",
+    "theme": "المظهر",
+    "workout_reminders": "تذكيرات التمرين",
+    "enable_reminders": "تمكين التذكيرات",
+    "reminder_time": "وقت التذكير",
+    "reminder_days": "أيام التذكير",
+    "app_version": "إصدار التطبيق",
+    
+    "english": "الإنجليزية",
+    "arabic": "العربية",
+    "kilograms": "كيلوغرام (كجم)",
+    "pounds": "باوند (لب)",
+    "light_mode": "الوضع الفاتح",
+    "dark_mode": "الوضع الداكن",
+    
+    "monday": "الاثنين",
+    "tuesday": "الثلاثاء",
+    "wednesday": "الأربعاء",
+    "thursday": "الخميس",
+    "friday": "الجمعة",
+    "saturday": "السبت",
+    "sunday": "الأحد",
+    
+    "weekly": "أسبوعي",
+    "monthly": "شهري",
+    "all_time": "كل الوقت",
+    
+    "set": "مجموعة",
+    "date": "التاريخ",
+    "change": "تغيير",
+    "delete": "حذف",
+    "cancel": "إلغاء",
+    "save": "حفظ"
+  }
+  

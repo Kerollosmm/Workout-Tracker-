@@ -1,0 +1,75 @@
+{
+    "app_name": "Workout Tracker",
+    "dashboard": "Dashboard",
+    "workout": "Workout",
+    "analytics": "Analytics",
+    "history": "History",
+    "settings": "Settings",
+    
+    "today_progress": "Today's Progress",
+    "this_week": "This Week",
+    "recent_workouts": "Recent Workouts",
+    "no_workouts_yet": "No workouts yet. Start tracking your progress!",
+    
+    "log_workout": "Log Workout",
+    "add_exercise": "Add Exercise",
+    "exercise_name": "Exercise Name",
+    "muscle_group": "Muscle Group",
+    "weight": "Weight",
+    "reps": "Reps",
+    "sets": "Sets",
+    "notes": "Notes",
+    "save_workout": "Save Workout",
+    "workout_saved": "Workout saved successfully",
+    
+    "please_add_exercise": "Please add at least one exercise",
+    "please_complete_sets": "Please complete all set information",
+    "tap_add_exercise": "Tap \"Add Exercise\" to begin",
+    
+    "performance": "Performance",
+    "muscle_groups": "Muscle Groups",
+    "select_exercise": "Select Exercise",
+    "no_data_available": "No data available for this exercise",
+    
+    "workout_history": "Workout History",
+    "no_workout_history": "No workout history yet",
+    "exercises": "exercises",
+    
+    "add_custom_exercise": "Add Custom Exercise",
+    "add_to_favorites": "Add to Favorites",
+    
+    "language": "Language",
+    "weight_unit": "Weight Unit",
+    "theme": "Theme",
+    "workout_reminders": "Workout Reminders",
+    "enable_reminders": "Enable Reminders",
+    "reminder_time": "Reminder Time",
+    "reminder_days": "Reminder Days",
+    "app_version": "App Version",
+    
+    "english": "English",
+    "arabic": "Arabic",
+    "kilograms": "Kilograms (kg)",
+    "pounds": "Pounds (lbs)",
+    "light_mode": "Light Mode",
+    "dark_mode": "Dark Mode",
+    
+    "monday": "Monday",
+    "tuesday": "Tuesday",
+    "wednesday": "Wednesday",
+    "thursday": "Thursday",
+    "friday": "Friday",
+    "saturday": "Saturday",
+    "sunday": "Sunday",
+    
+    "weekly": "Weekly",
+    "monthly": "Monthly",
+    "all_time": "All Time",
+    
+    "set": "Set",
+    "date": "Date",
+    "change": "Change",
+    "delete": "Delete",
+    "cancel": "Cancel",
+    "save": "Save"
+  }
